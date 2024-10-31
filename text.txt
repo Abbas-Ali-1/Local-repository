@@ -1,2 +1,2 @@
 <local directory text file>
-# Main branch 2 (older difference)
+# Main branch 2 (older feature)
